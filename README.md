@@ -1,0 +1,1 @@
+I made a simple calculator with 3 inputs (number, operator and number). Then I made a switch to check operators and if to check for 0 in the second number. I also made a do-while loop which continues until the person enters something other than Y/y.
